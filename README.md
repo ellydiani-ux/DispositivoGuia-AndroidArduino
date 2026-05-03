@@ -1,4 +1,4 @@
-# Dispositivo Guia para Pessoas com Deficiência Visual com Localização Wi-Fi e detecção de obsstáculos com sensor ultrassônico
+# Dispositivo Guia para Pessoas com Deficiência Visual com Localização Wi-Fi e Detecção de Obstáculos
 
 ## Descrição
 Sistema UBÍQUO VESTÍVEL acoplado com sensor ultrassônico para detecção de obstáculos e com dispositivo móvel android para a localização Wi-Fi para guiar pessoas com deficiência visual e identificar obstáculos em tempo real.
